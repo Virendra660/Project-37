@@ -7,13 +7,13 @@ gameState="Hungry"
 
 function preload()
 {
-	HappyDogImg=loadImage("images/dogImg.png")
-  hungryDog=loadImage("images/dogImg1.png")
-  bedRoomImg=loadImage("images/Bed Room.png")
-  runningImg=loadImage("images/running.png")
-  gardenImg=loadImage("images/Garden.png")
-  washRoomImg=loadImage("images/Wash Room.png")
-  sleepingImg=loadImage("images/Lazy.png")
+	HappyDogImg=loadImage("dogImg.png")
+  hungryDog=loadImage("dogImg1.png")
+  bedRoomImg=loadImage("Bed Room.png")
+  runningImg=loadImage("running.png")
+  gardenImg=loadImage("Garden.png")
+  washRoomImg=loadImage("Wash Room.png")
+  sleepingImg=loadImage("Lazy.png")
 }
 
 function setup() {
